@@ -7,12 +7,3 @@ I love code things <div align="left"><picture><source media="(prefers-color-sche
 I love code. I code with my dad that have a account on GitHub <div align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./view.png" width="40px"><img alt="eye" src="./view.png" width="40px"></picture></div>[See he account](https://github.com/arsenii10). I want that my projects have good quality. I have a friend named Mateo, it's my favourite friend <div align="levt"><picture><source media="(prefers-color-scheme: dark)" srcset="./me.png" width="90px"><img alt="person" src="./me.png" width="90px"></picture></div>.
 
 ![end](repository_end.png)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./planet.svg" width="20px">
-    <img alt="Planet" src="./planet.svg" width="20px">
-  </picture>
-</div>
-Change the language:
-Avaible languages: [ESP](https://github.com/nico1monte/nico1monte/blob/main/README.reader-spanish.md) | ENG

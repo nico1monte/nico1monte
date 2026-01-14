@@ -1,9 +1,7 @@
-# My own account's README
-![welcome](./blob_SRC/github_profile.png)
+# In process the new README
 
-I love code things <div align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./blob_SRC/code.webp" width="300px"><img alt="code" src="./blob_SRC/code.webp" width="300px"></picture></div> and dogs <div align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./blob_SRC/retro.jpg" width="300px"><img alt="golden" src="./blob_SRC/retro.jpg" width="300px"></picture></div>.
+But I can publish here my octocat:
 
-## <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./blob_SRC/me.png" width="90px"><img alt="person" src="./blob_SRC/me.png" width="90px"></picture></div> About me 
-I love code. I want that my projects have good quality. I have a friend named Mateo, it's my favourite friend <div align="left"><picture><source media="(prefers-color-scheme: dark)" srcset="./blob_SRC/me.png" width="90px"><img alt="person" src="./blob_SRC/me.png" width="90px"></picture></div>.
+<img width="500" height="500" alt="octocat-1768406614235" src="https://github.com/user-attachments/assets/e5afbea9-579a-4a62-bbf5-203641715c35" />
 
-![end](./blob_SRC/repository_end.png)
+<sub>Yes, I made this octocat with the myoctocat page. :_</sub>

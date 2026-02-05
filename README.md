@@ -10,6 +10,6 @@ Expert in:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/fcd15eb09b6bc8989934383211ee51b3a430f6ff/icons/svg/javascript.svg" alt="javascript"/>
-<img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/fcd15eb09b6bc8989934383211ee51b3a430f6ff/icons/svg/html5.svg" alt="html5"/>
-<img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/fcd15eb09b6bc8989934383211ee51b3a430f6ff/icons/svg/css3.svg" alt="css3"/>
+<img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/b3af2b2307fc2725797717148ff70acaf3a590fc/icons/svg/html5.svg" alt="html5"/>
+<img src="https://raw.githubusercontent.com/nico1monte/PixelIcns/b3af2b2307fc2725797717148ff70acaf3a590fc/icons/svg/css3.svg" alt="css3"/>
 </div>
